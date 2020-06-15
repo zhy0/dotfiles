@@ -1,0 +1,21 @@
+[submodule "submodules/vim-commentary"]
+	path = submodules/vim-commentary
+	url = https://github.com/tpope/vim-commentary
+[submodule "submodules/vim-surround"]
+	path = submodules/vim-surround
+	url = https://github.com/tpope/vim-surround
+[submodule "submodules/vim-repeat"]
+	path = submodules/vim-repeat
+	url = https://github.com/tpope/vim-repeat
+[submodule "submodules/molokai"]
+	path = submodules/molokai
+	url = https://github.com/tomasr/molokai
+[submodule "submodules/vim-polyglot"]
+	path = submodules/vim-polyglot
+	url = https://github.com/sheerun/vim-polyglot
+[submodule "submodules/vim-gitgutter"]
+	path = submodules/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter
+[submodule "submodules/vim-buftabline"]
+	path = submodules/vim-buftabline
+	url = https://github.com/ap/vim-buftabline
